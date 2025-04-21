@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IoanaAPop
+- 👋 Hi, I’m @Ioana
 - 🌱 I’m currently learning C++ & Java
 - 📫 paioana378@gmail.com
 
